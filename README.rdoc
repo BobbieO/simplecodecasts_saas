@@ -4,26 +4,4 @@ Coder Manual Project Application
 Subscription-based web application
 http://codermanual.com
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+An example membership-based web application where users can access a community of investors, entrepreneurs, and developers, with two tiers of membership. Application includes user authentication, creating/editing profiles, photo uploads, payment processing with Stripe, and a contact form system to handle messaging and email.
